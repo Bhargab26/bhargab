@@ -1,10 +1,10 @@
 * {
     box-sizing: border-box;
-    font-family:  serif;
+    font-family:  Lucida, sans-serif;
 }
 
 h1 {
-    color: blue;
+    color: navy;
     font-size: 175%;
     text-align: center;
 }
@@ -30,7 +30,7 @@ h2 {
   border-radius: 10px;
 }
 
-ul {
+p {
     clear: right;
     width: 90%;
     margin-left: 20px;
@@ -45,7 +45,7 @@ ul {
 }
 
 #steak {
-    background-color: blue;
+    background-color: orange;
 }
 
 
